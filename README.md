@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @castlunger
 - 👀 I’m interested in\
       - security,\
-      - smart homes and\
+      - domotics and\
       - cars
 - 🌱 I’m currently learning:\
       - esp32
