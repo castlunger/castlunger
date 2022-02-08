@@ -4,7 +4,7 @@
       - domotics and\
       - cars
 - 🌱 I’m currently learning:\
-      - esp32
+      - how to develop projects with esp32
 - 💞️ I’m looking to collaborate on\
       - nothing (at the moment)
 - 📫 How to reach me:\
